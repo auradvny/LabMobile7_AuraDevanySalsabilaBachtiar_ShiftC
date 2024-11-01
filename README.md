@@ -6,7 +6,7 @@ NIM : H1D022015
 
 Shift Baru: Shift C
 
-## Cara Kerja Proses Login
+## Cara Kerja Login
 
 1. Pengisian Formulir Login
    
